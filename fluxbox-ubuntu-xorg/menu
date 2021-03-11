@@ -1,0 +1,7 @@
+[begin] (fluxbox)
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+
+[submenu] (zion) {}
+         [exec] (firefox) {firefox} </usr/share/pixmaps/gnome-terminal.xpm>
+[end]
+[end]
